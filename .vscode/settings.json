@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "[solidity]": {
+    "editor.defaultFormatter": "JuanBlanco.solidity"
+  },
+  "solidity.formatter": "forge",
+  "solidity.packageDefaultDependenciesDirectory": "node_modules",
+  "solidity.compileUsingRemoteVersion": "v0.8.19+commit.a1b79de6",
+  "workbench.tree.indent": 15,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#05ef3c"
+  },
+
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit",
+    "source.fixAll": "explicit"
+  },
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+}

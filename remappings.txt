@@ -1,0 +1,7 @@
+account-abstraction/=lib/tokenbound/lib/account-abstraction/contracts/
+ds-test/=lib/forge-std/lib/ds-test/src/
+@solvprotocol/erc-3525/=lib/erc-3525/contracts/
+erc6551/=lib/tokenbound/lib/erc6551/
+forge-std/=lib/forge-std/src/
+@openzeppelin/=lib/openzeppelin-contracts/
+@tokenbound/contracts/=lib/tokenbound/src/
